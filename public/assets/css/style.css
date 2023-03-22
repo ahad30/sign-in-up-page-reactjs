@@ -1,0 +1,45 @@
+
+:root {
+    --brand: #ff4d29;
+    
+}
+
+body {
+    font-family:  sans-serif;
+    color: var(--body);
+    line-height: 1.7;
+}
+
+
+.navbar .navbar-nav .nav-link {
+    color: var(--dark);
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: var(--brand);
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: var(--brand);
+}
+
+.navbar-brand {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.navbar-brand .dot {
+    color: var(--brand);
+}
+
+
+.ahad10{
+    background-image: url(../img/istockphoto-1286913307-612x612.jpg);
+    background-repeat: no-repeat;
+    height: 452px;
+    width: 539px;
+    margin-top: 65px;
+    clip-path:circle(50%)
+   
+}
+
