@@ -14,10 +14,10 @@ function App() {
 
   return (
     <> 
-      <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top shadow">
+      <nav  class="navbar navbar-expand-lg navbar-light bg-white sticky-top shadow ">
         <div class="container">
           <a class="navbar-brand" href="#home">
-            <img src="assets/img/Main File wtih slogan.png" height="50px" width="150px" />
+            <img src="assets/img/Main File wtih slogan.png" height="50px" width="150px"/>
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,7 +52,7 @@ function App() {
       <div className="row">
       <div className="col-6">     
        <div class="ahad10">
-          <img class="mx-5 my-5" src="assets/img/login-form-img.png" height="350px" width="400px" />
+          <img class="mx-5 my-5" src="assets/img/login-form-img.png" height="350px" width="400px"/>
         </div>
       </div>
         <div className="App col-6">
