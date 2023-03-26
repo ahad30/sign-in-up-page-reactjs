@@ -49,7 +49,7 @@ function App() {
         </div>
       </nav>
       <div class="container">
-      <div className="row">
+      <div className="row ">
       <div className="col-6">     
        <div class="ahad10">
           <img class="mx-5 my-5" src="assets/img/login-form-img.png" height="350px" width="400px"/>
