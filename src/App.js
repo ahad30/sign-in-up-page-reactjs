@@ -52,7 +52,7 @@ function App() {
       <div className="row ">
       <div className="col-6">     
        <div class="ahad10">
-          <img class="mx-5 my-5" src="assets/img/login-form-img.png" height="350px" width="400px"/>
+          <img class="mx-5 my-5 img-fluid" src="assets/img/login-form-img.png" height="350px" width="400px"/>
         </div>
       </div>
         <div className="App col-6">

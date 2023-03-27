@@ -24,7 +24,7 @@ h3{
   flex-direction: column;
 }
 
-@media screen and (min-width: 600px) {
+@media  screen and (min-width: 600px) {
   .auth-form-container {
     padding: 5rem;
     margin: 0.5rem;
@@ -60,16 +60,13 @@ button {
 
 
 
-@media screen and (max-width:740px)  {
+@media only screen and (min-width:768px) and (max-width:991px){
   .container{
-      width: 100%;
+    width: 100%;
   }
-  
+  .auth-form-container {
+   margin-right: 400px;
+  }
 }
 
-@media screen and (min-width: 375px) {
-  .auth-form-container {
-    padding: 5rem;
-    margin-right: 410px;
-  }
-}
+
