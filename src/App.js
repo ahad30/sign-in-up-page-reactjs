@@ -14,7 +14,7 @@ function App() {
 
   return (
     <> 
-      <nav  class="navbar navbar-expand-lg navbar-light bg-white sticky-top shadow ">
+      <nav  class="navbar navbar-expand-lg navbar-light bg-white shadow ">
         <div class="container">
           <a class="navbar-brand" href="#home">
             <img src="assets/img/Main File wtih slogan.png" height="50px" width="150px"/>

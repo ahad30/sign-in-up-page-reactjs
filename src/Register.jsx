@@ -29,7 +29,7 @@ export const Register = (props) => {
         <h4>OR</h4>
                 <span className="shadow">Continue with :
                 <a href="#">
-                 <img src="assets/img/png-transparent-google-logo-google-search-meng-meng-company-text-logo-thumbnail.png" width="50px" height="50px"/></a>
+                 <img src="assets/img/ahad10" width="50px" height="50px"/></a>
                  <a href="#">
                 <img src="assets/img/download.png" width="30px" height="28px"/></a>
                 </span>
