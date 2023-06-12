@@ -16,7 +16,7 @@ export const Register = (props) => {
             <h2 class="mb-4">Sign up</h2>
         <form className="register-form shadow " onSubmit={handleSubmit}>
             <label htmlFor="name">Full name</label>
-            <input value={name} name="name" onChange={(e) => setName(e.target.value)} id="name" placeholder="full Name" class="shadow"/>
+            < input value={name} name="name" onChange={(e) => setName(e.target.value)} id="name" placeholder="full Name" class="shadow"/>
             <label htmlFor="email">email</label>
             <input value={email} onChange={(e) => setEmail(e.target.value)}type="email" placeholder="youremail@gmail.com" id="email" name="email" class="shadow" />
             <label htmlFor="password">password</label>
@@ -28,9 +28,9 @@ export const Register = (props) => {
         <button className="link-btn text-dark" onClick={() => props.onFormSwitch('login')}>Already have an account? Sign in here.</button>
         <h4>OR</h4>
                 <span className="shadow">Continue with :
-                <a href="#">
+                <a href="">
                  <img src="assets/img/ahad10.png" width="50px" height="50px"/></a>
-                 <a href="#">
+                 <a href="">
                 <img src="assets/img/download.png" width="30px" height="28px"/></a>
                 </span>
 

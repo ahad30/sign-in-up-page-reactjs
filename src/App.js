@@ -48,7 +48,7 @@ function App() {
           </div>
         </div>
       </nav>
-      <div class="container">
+      <div class="container ">
       <div className="row ">
       <div className="col-6">     
        <div class="ahad10">
